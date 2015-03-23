@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.grpc.testing.integration.Http2OkHttpTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2015-03-22T19:14:44" hostname="xek" time="5.715">
+  <properties/>
+  <testcase name="exchangeContextUnaryCall" classname="io.grpc.testing.integration.Http2OkHttpTest" time="0.822"/>
+  <testcase name="emptyUnary" classname="io.grpc.testing.integration.Http2OkHttpTest" time="0.019"/>
+  <testcase name="pingPong" classname="io.grpc.testing.integration.Http2OkHttpTest" time="0.194"/>
+  <testcase name="clientStreaming" classname="io.grpc.testing.integration.Http2OkHttpTest" time="0.049"/>
+  <testcase name="fullDuplexCallShouldSucceed" classname="io.grpc.testing.integration.Http2OkHttpTest" time="0.023"/>
+  <testcase name="serverStreaming" classname="io.grpc.testing.integration.Http2OkHttpTest" time="0.055"/>
+  <testcase name="cancelAfterFirstResponse" classname="io.grpc.testing.integration.Http2OkHttpTest" time="0.052"/>
+  <testcase name="cancelAfterBegin" classname="io.grpc.testing.integration.Http2OkHttpTest" time="0.007"/>
+  <testcase name="emptyStream" classname="io.grpc.testing.integration.Http2OkHttpTest" time="0.022"/>
+  <testcase name="streamingOutputShouldBeFlowControlled" classname="io.grpc.testing.integration.Http2OkHttpTest" time="4.008"/>
+  <testcase name="halfDuplexCallShouldSucceed" classname="io.grpc.testing.integration.Http2OkHttpTest" time="0.035"/>
+  <testcase name="exchangeContextStreamingCall" classname="io.grpc.testing.integration.Http2OkHttpTest" time="0.033"/>
+  <testcase name="largeUnary" classname="io.grpc.testing.integration.Http2OkHttpTest" time="0.388"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

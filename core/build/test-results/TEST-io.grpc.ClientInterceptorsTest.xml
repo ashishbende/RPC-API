@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.grpc.ClientInterceptorsTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2015-03-22T19:14:29" hostname="xek" time="0.209">
+  <properties/>
+  <testcase name="examineInboundHeaders" classname="io.grpc.ClientInterceptorsTest" time="0.162"/>
+  <testcase name="npeForNullInterceptorList" classname="io.grpc.ClientInterceptorsTest" time="0.001"/>
+  <testcase name="ordered" classname="io.grpc.ClientInterceptorsTest" time="0.002"/>
+  <testcase name="callNextTwice" classname="io.grpc.ClientInterceptorsTest" time="0.001"/>
+  <testcase name="noop" classname="io.grpc.ClientInterceptorsTest" time="0.001"/>
+  <testcase name="addOutboundHeaders" classname="io.grpc.ClientInterceptorsTest" time="0.011"/>
+  <testcase name="channelAndInterceptorCalled" classname="io.grpc.ClientInterceptorsTest" time="0.027"/>
+  <testcase name="npeForNullChannel" classname="io.grpc.ClientInterceptorsTest" time="0.001"/>
+  <testcase name="npeForNullInterceptor" classname="io.grpc.ClientInterceptorsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

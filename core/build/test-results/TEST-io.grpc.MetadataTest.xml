@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.grpc.MetadataTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2015-03-22T19:14:29" hostname="xek" time="0.015">
+  <properties/>
+  <testcase name="headerMergeShouldCopyValues" classname="io.grpc.MetadataTest" time="0.004"/>
+  <testcase name="verifyToString" classname="io.grpc.MetadataTest" time="0.006"/>
+  <testcase name="testWriteRaw" classname="io.grpc.MetadataTest" time="0.0"/>
+  <testcase name="roundTripIntegerMarshaller" classname="io.grpc.MetadataTest" time="0.001"/>
+  <testcase name="integerMarshallerIsDecimal" classname="io.grpc.MetadataTest" time="0.0"/>
+  <testcase name="testWriteParsed" classname="io.grpc.MetadataTest" time="0.002"/>
+  <testcase name="testFailSerializeRaw" classname="io.grpc.MetadataTest" time="0.0"/>
+  <testcase name="testFailMergeRawIntoSerializable" classname="io.grpc.MetadataTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

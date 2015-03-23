@@ -1,0 +1,7 @@
+-o
+/home/ashish/SJSU/273/Lab2/grpc-java/compiler/build/binaries/java_pluginExecutable/java_plugin
+/home/ashish/SJSU/273/Lab2/grpc-java/compiler/build/objs/java_pluginExecutable/java_pluginCpp/a1ab01zrye7mmp1zjtlr2k1mq/java_generator.o
+/home/ashish/SJSU/273/Lab2/grpc-java/compiler/build/objs/java_pluginExecutable/java_pluginCpp/dy9f82v4yu28ic8figcufllzv/java_plugin.o
+/home/ashish/SJSU/273/Lab2/grpc-java/compiler/build/objs/java_pluginExecutable/java_pluginCpp/qvf0ypko4bkdig0j5w3rx1vl/java_generator.o
+-lprotoc
+-lprotobuf

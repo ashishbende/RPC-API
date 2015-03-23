@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.grpc.transport.netty.NettyClientStreamTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2015-03-22T19:14:57" hostname="xek" time="0.436">
+  <properties/>
+  <testcase name="inboundMessageShouldCallListener" classname="io.grpc.transport.netty.NettyClientStreamTest" time="0.345"/>
+  <testcase name="setStatusWithErrorShouldCloseStream" classname="io.grpc.transport.netty.NettyClientStreamTest" time="0.003"/>
+  <testcase name="invalidInboundHeadersCancelStream" classname="io.grpc.transport.netty.NettyClientStreamTest" time="0.015"/>
+  <testcase name="cancelShouldSendCommand" classname="io.grpc.transport.netty.NettyClientStreamTest" time="0.003"/>
+  <testcase name="inboundStatusShouldSetStatus" classname="io.grpc.transport.netty.NettyClientStreamTest" time="0.005"/>
+  <testcase name="setStatusWithOkShouldNotOverrideError" classname="io.grpc.transport.netty.NettyClientStreamTest" time="0.003"/>
+  <testcase name="nonGrpcResponseShouldSetStatus" classname="io.grpc.transport.netty.NettyClientStreamTest" time="0.019"/>
+  <testcase name="cancelShouldStillSendCommandIfStreamNotCreatedToCancelCreation" classname="io.grpc.transport.netty.NettyClientStreamTest" time="0.003"/>
+  <testcase name="closeShouldSucceed" classname="io.grpc.transport.netty.NettyClientStreamTest" time="0.004"/>
+  <testcase name="setStatusWithErrorShouldNotOverridePreviousError" classname="io.grpc.transport.netty.NettyClientStreamTest" time="0.004"/>
+  <testcase name="deframedDataAfterCancelShouldBeIgnored" classname="io.grpc.transport.netty.NettyClientStreamTest" time="0.004"/>
+  <testcase name="setStatusWithOkShouldCloseStream" classname="io.grpc.transport.netty.NettyClientStreamTest" time="0.003"/>
+  <testcase name="inboundTrailersClosesCall" classname="io.grpc.transport.netty.NettyClientStreamTest" time="0.004"/>
+  <testcase name="writeMessageShouldSendRequest" classname="io.grpc.transport.netty.NettyClientStreamTest" time="0.007"/>
+  <testcase name="dataFrameWithEosShouldDeframeAndThenFail" classname="io.grpc.transport.netty.NettyClientStreamTest" time="0.002"/>
+  <testcase name="inboundHeadersShouldCallListenerHeadersRead" classname="io.grpc.transport.netty.NettyClientStreamTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

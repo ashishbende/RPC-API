@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.grpc.testing.integration.Http2NettyTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2015-03-22T19:14:49" hostname="xek" time="4.509">
+  <properties/>
+  <testcase name="exchangeContextUnaryCall" classname="io.grpc.testing.integration.Http2NettyTest" time="0.197"/>
+  <testcase name="emptyUnary" classname="io.grpc.testing.integration.Http2NettyTest" time="0.007"/>
+  <testcase name="pingPong" classname="io.grpc.testing.integration.Http2NettyTest" time="0.11"/>
+  <testcase name="clientStreaming" classname="io.grpc.testing.integration.Http2NettyTest" time="0.012"/>
+  <testcase name="fullDuplexCallShouldSucceed" classname="io.grpc.testing.integration.Http2NettyTest" time="0.013"/>
+  <testcase name="serverStreaming" classname="io.grpc.testing.integration.Http2NettyTest" time="0.016"/>
+  <testcase name="cancelAfterFirstResponse" classname="io.grpc.testing.integration.Http2NettyTest" time="0.032"/>
+  <testcase name="cancelAfterBegin" classname="io.grpc.testing.integration.Http2NettyTest" time="0.011"/>
+  <testcase name="emptyStream" classname="io.grpc.testing.integration.Http2NettyTest" time="0.016"/>
+  <testcase name="streamingOutputShouldBeFlowControlled" classname="io.grpc.testing.integration.Http2NettyTest" time="4.006"/>
+  <testcase name="halfDuplexCallShouldSucceed" classname="io.grpc.testing.integration.Http2NettyTest" time="0.028"/>
+  <testcase name="exchangeContextStreamingCall" classname="io.grpc.testing.integration.Http2NettyTest" time="0.018"/>
+  <testcase name="largeUnary" classname="io.grpc.testing.integration.Http2NettyTest" time="0.03"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
