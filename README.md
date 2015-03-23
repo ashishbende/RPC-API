@@ -5,9 +5,9 @@ Poll Service using grpc
 Steps:
 ======
 
-1] ./gradlew build
-2] ./gradlew :grpc-examples:PollServer
-3] ./gradlew :grpc-examples:PollClient
+* ./gradlew build
+* ./gradlew :grpc-examples:PollServer
+* ./gradlew :grpc-examples:PollClient
 
 
 ##Information about grpc-java
